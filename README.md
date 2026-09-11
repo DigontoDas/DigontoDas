@@ -6,12 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;Web Developer+%F0%9F%92%BB;Applied+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/University-BRAC%20University-1E90FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPA-3.6%20%2F%204.0-white?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/From-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Research%20Collaboration-0D1B2A?style=for-the-badge&labelColor=1E90FF" />
-</p>
+
 
 ---
 
