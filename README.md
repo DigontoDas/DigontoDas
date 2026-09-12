@@ -235,13 +235,6 @@ Currently focused on:
   <img src="https://streak-stats.demolab.com/?user=DigontaDas&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DigontaDas&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&area_color=1E90FF" alt="Contribution Graph" />
-</div>
 
 ---
 
