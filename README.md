@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:1E90FF&height=200&section=header&text=Digonta%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20BRAC%20University%20%7C%20Medical%20Vision%20Researcher%20%7C%20Applied%20AI%20Engineer&descAlignY=58&descSize=18&descColor=93C5FD" width="100%" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;Web Developer+%F0%9F%92%BB;Applied+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
-</h1>
+
 
 
 
