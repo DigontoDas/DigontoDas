@@ -14,17 +14,13 @@
 digonta = {
     "name"           : "Digonta Das",
     "university"     : "BRAC University — BSc. CSE (4th Year)",
-    "gpa"            : 3.6,
     "Previous_role"   : "AI Developer Intern @ IntelliVerse (Remote) 💼",
     "thesis"         : "Efficient 3D Tiled CNN for Coronary Artery Stenosis Detection",
-    "dataset"        : "121 MRI + 160 CT Scans — Ibrahim Cardiac & Bangladesh Medical Hospital",
     "web_stack"      : ["React", "Node.js", "Express.js", "FastAPI", "MongoDB", "PostgreSQL", "MySQL"],
     "ml_tools"       : ["PyTorch", "TensorFlow", "OpenCV", "3D CNN", "WHISPER-API", "Numpy", "Pandas"],
     "languages"      : ["Python", "JavaScript", "C", "Kotlin"],
     "deployment"     : ["Docker", "Hugging Face"],
     "Automation"     : ["n8n","Make"],
-    "Goal"           : "Applied AI Engineer",
-    "fun_fact"       : "I segment CT volumes before breakfast and ship REST APIs before dinner 🫀💻",
 }
 ```
 
